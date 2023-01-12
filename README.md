@@ -132,6 +132,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. SpeedyNodes - https://www.speedynodes.com/
 18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. Exaion - [https://node.exaion.com/](https://node.exaion.com)
 
 **Public Endpoints:**
 
@@ -669,7 +670,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 ## Donate
 
-Your donation will help us move forward with our project and make sure that it can benefit the entire community. 
+Your donation will help us move forward with our project and make sure that it can benefit the entire community.
 
 Address: `0x99ac38dA3298fA7B0B8cB42a2aE9F1a8C74D98ea`
 
