@@ -339,6 +339,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
 2. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Exaion - [https://node.exaion.com](https://node.exaion.com)
 
 **Public Endpoints:**
 
