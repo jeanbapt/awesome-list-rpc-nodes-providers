@@ -231,6 +231,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. SpeedyNodes - https://www.speedynodes.com/
 11. Chainbase - [https://chainbase.online](https://chainbase.online)
+12. Exaion - [https://node.exaion.com/](https://node.exaion.com)
 
 **Public Endpoints:**
 
